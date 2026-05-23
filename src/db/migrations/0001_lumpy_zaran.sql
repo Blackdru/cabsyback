@@ -1,0 +1,1 @@
+ALTER TABLE "rides" ADD COLUMN "dispatch_expanded_at" timestamp with time zone;
